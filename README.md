@@ -1,9 +1,9 @@
 <h1 align="center">
-    <img alt="Nubank" title="Nubank" src=".github/logo.png" width="250px" />
+    <img alt="Nubank" title="Nubank" src=".github/logo.svg" width="250px" height="100px" />
 </h1>
 
 <p align="center">
-  <a href="#mortar_board-instalacao-e-execucao">Instação e execução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#mortar_board-instalacão-e-execucão">Instação e execução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
@@ -33,7 +33,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 -  [react-native-vector-icons](https://oblador.github.io/react-native-vector-icons/)
 -  [react-native-qrcode](https://www.npmjs.com/package/react-native-qrcode)
 -  [styled-components](https://www.styled-components.com/)
--  [VS Code][vc] com [EditorConfig][vceditconfig] e [ESLint][vceslint]
 
 ## 💻 Projeto
 
